@@ -1,12 +1,10 @@
-## Welcome to GitHub Pages
+## Robson Antonio Lima de Mendonça
 
-You can use the [editor on GitHub](https://github.com/robsonamendonca/robsonamendonc/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Eu sou um desenvolvedor web que mora em São Paulo, Brasil. Sou fã de tecnologia, café e programação.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Ferramentas
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Minhas linguagens: Clipper, Visual Basic Aplication, Visual Basic 6, C Sharpb(C#), PHP, JavaScript.
 
 ```markdown
 Syntax highlighted code block
@@ -32,6 +30,6 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/robsonamendonca/robsonamendonc/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
+### Contatos
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+ [Sobre e redes sociais](https://about.me/robsonamendonca).
