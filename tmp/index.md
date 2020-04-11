@@ -12,10 +12,6 @@ Eu sou um desenvolvedor web que mora em São Paulo, Brasil. Sou fã de tecnologi
 Minhas linguagens: Clipper, Visual Basic Aplication, Visual Basic 6, C Sharpb(C#), PHP, JavaScript.
 
 
-### Projetos
-
- [Translate Web](https://robsonamendonca.github.io/translate-web/).
-
 ### Contatos
 
  [Sobre e redes sociais](https://about.me/robsonamendonca).
