@@ -38,5 +38,29 @@
         "url": "https://robsonamendonca.github.io/jogodavelha/index.html",
         "nomeImagem":"jogadavelha.jpeg",
         "idImagem": 5
-    }         
+    },
+    {
+        "id":6,
+        "titulo":"Scrum Quiz",
+        "sobre":"Perguntas e respostas sobre SCRUM",
+        "url":"https://scrumquiz-3m0c9kcyx.vercel.app/",
+        "nomeImagem":"scrumquiz-3m0c9kcyx.vercel.app.jpeg",
+        "idIm,agem": 6
+    },
+    {
+        "id":7,
+        "titulo":"dev.finance$",
+        "sobre":"Controle de entradas e saidas para Devs.",
+        "url":"https://robsonamendoncadevfinance.vercel.app/",
+        "nomeImagem":"robsonamendoncadevfinance.vercel.app.jpeg",
+        "idImagem": 7
+    },           
+    {
+        "id":8,
+        "titulo":"O que comprar App",
+        "sobre":"Preparar e gera lista de compras.",
+        "url":"https://qcomprar.vercel.app/",
+        "nomeImagem":"qcomprar.vercel.app.jpeg",
+        "idImagem": 8
+    }     
 ]
